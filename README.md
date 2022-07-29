@@ -1,7 +1,7 @@
-# Broken React TO DO application based on context api
+# Techinal Interview ReactJS To Do List
 
 ## Info
-This project was created for the article ["React coding interview task"](https://medium.com/@andrey.igorevich.borisov/react-coding-interview-task-c9f21fb872e2). The working example can be found at https://github.com/andrewborisov/react-todo-application-context-api
+Link to the original repo: https://github.com/andrewborisov/broken-react-todo-application-context-api.
 
 ## Base tasks
 This application was intentionally broken, there are six critical issues that a candidate has to fix:
