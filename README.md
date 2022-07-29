@@ -13,6 +13,10 @@ This application was intentionally broken, there are six critical issues that a 
 
 The working example can be found at https://github.com/andrewborisov/react-todo-application-context-api
 
+## Additional tasks
+1. Optimize solution based on ReactJS common optimization practices.
+2. Implement feature of storing items in localStorage.
+
 ## Available Scripts
 
 Use `npm start` to run project.
