@@ -14,8 +14,9 @@ This application was intentionally broken, there are six critical issues that a 
 6. Fix an ability to count completed tasks.
 
 ## Additional tasks
-1. Optimize solution based on ReactJS common optimization practices.
-2. Implement feature of storing items in localStorage.
+1. Write unit test.
+2. Optimize solution based on ReactJS common optimization practices.
+3. Implement feature of storing items in localStorage.
 
 ## Available Scripts
 
